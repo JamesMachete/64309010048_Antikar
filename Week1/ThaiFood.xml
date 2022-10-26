@@ -1,7 +1,7 @@
 <Food>
     <ThaiFood>
         <FoodID>001</FoodID>
-        <FoodName>หอยทอด</FoodName>
+        <FoodName>ข้าวผัดปู</FoodName>
         <price>50</price>
     </ThaiFood>
     <ThaiFood>
@@ -21,7 +21,7 @@
     </ThaiFood>
     <ThaiFood>
         <FoodID>005</FoodID>
-        <FoodName>ข้าวผัดปู</FoodName>
+        <FoodName>ข้าวผัดหมู</FoodName>
         <price>100 บาท</price>
     </ThaiFood>
     <ThaiFood>

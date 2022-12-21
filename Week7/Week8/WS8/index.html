@@ -14,7 +14,7 @@
     let xhttp = new XMLHttpRequest();
     xhttp.open("GET","http://localhost:3000/book");
     xhttp.send();
-    xhttp.onload = function() {
+    xhttp.onload = function() {  
         //console.log(this.responseText);
         //document.grt
         let obj = JSON.parse(this.responseText);

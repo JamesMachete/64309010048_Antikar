@@ -1,0 +1,134 @@
+{
+    "Building materials shop": [
+      {
+        "id": 1,
+        "ProductID": "000201",
+        "ProductName": "ปูนซีเมนต์",
+        "ProductCategory": "ระบบผนัง",
+        "RemainUnit": "20",
+        "Costprice": "3000",
+        "Saleprice": "165",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852437102848.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "ProductID": "000202",
+        "ProductName": "ไม้ระแนง",
+        "ProductCategory": "ระบบผนัง",
+        "RemainUnit": "10",
+        "Costprice": "5000",
+        "Saleprice": "45",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852404064360.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "ProductID": "000203",
+        "ProductName": "กระเบื้องคอนกรีต",
+        "ProductCategory": "ระบบหลังคา",
+        "RemainUnit": "100",
+        "Costprice": "5000",
+        "Saleprice": "14",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852422102440.jpg"
+        }
+      },
+      {
+        "id": 4,
+        "ProductID": "000204",
+        "ProductName": "ฝ้ายิปซั่ม",
+        "ProductCategory": "ระบบฝ้า",
+        "RemainUnit": "30",
+        "Costprice": "5000",
+        "Saleprice": "24",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8859088330170.jpg"
+        }
+      },
+      {
+        "id": 5,
+        "ProductID": "000205",
+        "ProductName": "บอร์ดพื้น",
+        "ProductCategory": "ระบบพื้น",
+        "RemainUnit": "40",
+        "Costprice": "5000",
+        "Saleprice": "292",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852404068610.jpg"
+        }
+      },
+      {
+        "id": 6,
+        "ProductID": "000206",
+        "ProductName": "ไม้รั้ว",
+        "ProductCategory": "ระบบตกแต่งภูมิทัศน์",
+        "RemainUnit": "100",
+        "Costprice": "5000",
+        "Saleprice": "45",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852404048414.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "ProductID": "000207",
+        "ProductName": "ขอบคันหิน",
+        "ProductCategory": "ระบบตกแต่งภูมิทัศน์",
+        "RemainUnit": "50",
+        "Costprice": "6000",
+        "Saleprice": "79",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8851852023066.jpg"
+        }
+      },
+      {
+        "id": 8,
+        "ProductID": "000208",
+        "ProductName": "ไม้ตกแต่งซีเฟรม",
+        "ProductCategory": "ระบบผนัง",
+        "RemainUnit": "10",
+        "Costprice": "2000",
+        "Saleprice": "433",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852404078534.jpg"
+        }
+      },
+      {
+        "id": 9,
+        "ProductID": "000209",
+        "ProductName": "ช่องเซอร์วิส",
+        "ProductCategory": "ระบบฝ้า",
+        "RemainUnit": "30",
+        "Costprice": "10000",
+        "Saleprice": "310",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8859088330125.jpg"
+        }
+      },
+      {
+        "id": 10,
+        "ProductID": "000210",
+        "ProductName": "สีทาปูนใต้ครอบ",
+        "ProductCategory": "ระบบสีสกรู",
+        "RemainUnit": "50",
+        "Costprice": "5000",
+        "Saleprice": "359",
+        "URL": {
+            "URL":"https://duraone.co.th/medias/duraone/post/product/8852422104383.jpg"
+        }
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+ 
